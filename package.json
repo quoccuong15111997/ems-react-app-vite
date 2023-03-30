@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@progress/kendo-licensing": "^1.3.0",
+    "@progress/kendo-theme-default": "^5.12.0",
+    "axios": "^1.2.1",
+    "multiselect-react-dropdown": "^2.0.25",
+    "react-icons": "^4.7.1",
+    "uuid": "^9.0.0"
+  }
+}

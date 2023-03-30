@@ -1,0 +1,14 @@
+td.customColumn {
+    color: blue;
+    text-align: right;
+}
+td.editNumberColumn {
+    color: blue;
+    text-align: right;
+}
+.text-number .k-input-inner {
+    text-align: right;
+}
+.k-grid-content {
+    background: #EFF6FF;
+}
